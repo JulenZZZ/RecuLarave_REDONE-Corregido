@@ -1,0 +1,1 @@
+Es imposible hacer la division el divisor es 0!!!!!!!!!!!!!!!!!!!!!!!!
